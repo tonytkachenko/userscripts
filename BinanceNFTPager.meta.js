@@ -12,6 +12,6 @@
 // @updateURL        https://raw.githubusercontent.com/tonytkachenko/userscripts/main/BinanceNFTPager.meta.js
 // @downloadURL      https://raw.githubusercontent.com/tonytkachenko/userscripts/main/BinanceNFTPager.user.js
 // @supportURL       https://github.com/tonytkachenko/userscripts/issues
-// @source           https://github.com/tonytkachenko/userscripts/BinanceNFTPager.user.js
+// @source           https://github.com/tonytkachenko/userscripts/main/BinanceNFTPager.user.js
 // @grant            none
 // ==/UserScript==
